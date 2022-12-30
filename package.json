@@ -1,0 +1,25 @@
+{
+  "name": "azurehelloworldnodeapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KalleMus/AzureHelloWorldNodeApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KalleMus/AzureHelloWorldNodeApp/issues"
+  },
+  "homepage": "https://github.com/KalleMus/AzureHelloWorldNodeApp#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.2"
+  }
+}
